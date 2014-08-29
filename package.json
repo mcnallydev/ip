@@ -1,0 +1,11 @@
+{
+  "name": "mc-ip",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.8.6",
+    "heroku-ip": "0.0.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
